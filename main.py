@@ -6,6 +6,7 @@ import zipfile
 import winreg
 import re
 
+# 我在这里警告有些人，不要未经许可，就将我的程序用于商用
 # 注意:此程序目前仅适用于windows系统
 
 mod_xz = 0
