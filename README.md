@@ -19,7 +19,7 @@
 
 ## 怎么用
 
-1. 先去Releases(https://github.com/drxsgd/unknown-casualties-mod-installer/releases)下载最新的 `未知伤亡mod安装器.exe`
+1. 先去Releases(https://github.com/drxsgd/unknown-casualties-mod-installer/releases)下载最新的 `wzsw_mod_installer.exe`
 2. 确保游戏已经装好了（推荐使用Steam安装）
 3. 双击运行 `.exe`，按提示操作就行
 
@@ -86,7 +86,7 @@ Great for people who aren't familiar with computers or don't want to deal with m
 
 ## How to use
 
-1. Go to [Releases](https://github.com/drxsgd/unknown-casualties-mod-installer/releases) and download the latest `未知伤亡mod安装器.exe`
+1. Go to [Releases](https://github.com/drxsgd/unknown-casualties-mod-installer/releases) and download the latest `wzsw_mod_installer.exe`
 2. Make sure your game is already installed (Steam version is recommended)
 3. Double-click the `.exe` and follow the on-screen instructions
 
